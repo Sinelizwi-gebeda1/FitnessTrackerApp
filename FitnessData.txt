@@ -1,0 +1,6 @@
+Weight: 58.0 kg, Height: 1.32 m, BMI: 33.29, Category: Obesity, Gender: Male, Age: 32 | 
+Selected days for exercise: Monday, Tuesday | Weight: 25.0 kg, Height: 1.23 m, BMI: 16.52, Category: Underweight, Gender: Male, Age: 30 | Selected days for exercise: Monday, Tuesday |
+ Weight: 58.0 kg, Height: 1.69 m, BMI: 20.31, Category: Normal weight, Gender: Female, Age: 35 | Selected days for exercise: Thursday, Friday, Sunday |
+ Weight: 65.0 kg, Height: 1.32 m, BMI: 37.30, Category: Obesity, Gender: Male, Age: 40 | Selected days for exercise: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday |
+ Weight: 58.0 kg, Height: 1.23 m, BMI: 38.34, Category: Obesity, Gender: Male, Age: 23 | Selected days for exercise: Monday, Tuesday, Wednesday, Thursday |
+ 
